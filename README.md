@@ -12,7 +12,7 @@ No cloud. No connectivity. No per-page cost. The app ships without the `INTERNET
 | **Battle** | Hyderabad · 26–27 September 2026 |
 | **Track** | Open Innovation |
 | **Bucket** | Students |
-| **Team** | `[TEAM NAME]` · `[MEMBER]`, `[MEMBER]` |
+| **Team** | `Goose` · `Dakshith`, `Jithindranaath`, `Aniketh` |
 | **Target hardware** | iQOO 15 (Snapdragon, Hexagon NPU) |
 
 > **Repository status.** This repo holds **planning artifacts only** — spec, architecture, build plan and validation rules. Per the hackathon's original-work rule, the competition app is built in a clean repository from 11:00 on Saturday 26 September. Pre-event spikes live in `spikes/` and are throwaway probes, not product code.
@@ -129,13 +129,6 @@ BUILD-PLAN.md      pre-event spikes, 30-hour plan, Red/Green split, risk registe
 spikes/            throwaway pre-event probes (not product code)
 deck/              pitch deck
 ```
-
-## Team
-
-| Member | Owns |
-|---|---|
-| `[MEMBER]` | Android and capture layer — CameraX, OCR, review queue, Office Kit hand-off |
-| `[MEMBER]` | Model and validation — NPU runtime, field extraction, rule engine, benchmarks |
 
 Prior work: 1st place Algorand Hack Series 1 · 1st place Cardano Asia Hackathon 2025 · Top 10 Finalist Solana Stable Hacks 2026 · Top 7 Algorand Hack Series 3 · Top 10 Algorand Hack Series 2.
 
